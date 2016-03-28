@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="takewebh:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="takewebh.war">
+      <element id="artifact" artifact-name="takewebh:war exploded" />
+    </root>
+  </artifact>
+</component>
